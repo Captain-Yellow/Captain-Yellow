@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Afshar</h1>
 <h3 align="center">An AI Researcher and Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-yellow" alt="captain-yellow" /></a> </p>
+
 - 📫 How to reach me **neo.mohammad.afshar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,6 +35,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-yellow&show_icons=true&locale=en&layout=compact" alt="captain-yellow" /></p>
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-yellow&show_icons=true&locale=en&layout=compact" alt="captain-yellow" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-yellow&show_icons=true&locale=en" alt="captain-yellow" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain-yellow&" alt="captain-yellow" /></p>
 
 
 <!--
