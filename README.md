@@ -15,7 +15,7 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png" alt="iOS" width="35" height="35"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1280px-Apple_logo_black.svg.png" alt="iOS" width="40" height="40"/> </a>
 
 <br>
 <!-- C Family Language -->
