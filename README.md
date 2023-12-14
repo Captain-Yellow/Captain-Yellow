@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Afshar</h1>
-<h3 align="center">An AI Researcher and Developer</h3>
+<h3 align="center">An iOS and AI Researcher and Developer</h3>
 
 - 📫 How to reach me **neo.mohammad.afshar@gmail.com**
 <!-- Social Media -->
