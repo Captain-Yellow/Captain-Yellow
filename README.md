@@ -6,6 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/perfectyellow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad afshar" height="30" width="40" /></a>
+
+<a href="https://t.me/captainyellow" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" alt="muhammad afshar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
