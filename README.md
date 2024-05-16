@@ -4,14 +4,16 @@
 - 📫 How to reach me **neo.mohammad.afshar@gmail.com**
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left"> -->
-<a href="https://www.linkedin.com/in/perfectyellow" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad afshar" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/perfectyellow" target="blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad afshar" height="30" width="40" /></a>
 
-<a href="https://t.me/captainyellow" target="blank"><img src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" alt="muhammad afshar" height="30" width="40" /></a>
+<a href="https://t.me/captainyellow" target="blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/6113871?s=200&v=4" alt="muhammad afshar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left">  -->
+<p align="left"> 
   
 <!-- Apple Developer -->
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">   
